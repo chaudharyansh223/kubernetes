@@ -20,4 +20,3 @@ spec:
       containers:
         - name: nginx
           image: nginx
-          imagePullPolicy: Never
